@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.2' 
 DESCRIPTION = 'My first Python package'
 LONG_DESCRIPTION = 'My first Python package with a slightly longer description'
 
@@ -9,8 +9,8 @@ setup(
        # the name must match the folder name 'verysimplemodule'
         name="verysimplemodule", 
         version=VERSION,
-        author="Jason Dsouza",
-        author_email="<youremail@email.com>",
+        author="varalakshmi",
+        author_email="varalakshmi6051998@gmail.com",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
